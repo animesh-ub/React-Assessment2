@@ -1,0 +1,44 @@
+{
+  "student": [
+    {
+      "name": "Animesh Pandey",
+      "dob": "",
+      "gender": "",
+      "address": "sa",
+      "number": "07236055764",
+      "id": 1
+    },
+    {
+      "name": "Animesh Pandey",
+      "dob": "",
+      "gender": "",
+      "address": "sa",
+      "number": "07236055764",
+      "id": 2
+    },
+    {
+      "name": "Animesh",
+      "dob": "2000-01-08",
+      "gender": "Male",
+      "address": "Delhi",
+      "number": "723828282",
+      "id": 3
+    },
+    {
+      "name": "Animesh",
+      "dob": "2000-01-08",
+      "gender": "Male",
+      "address": "Delhi",
+      "number": "723828282",
+      "id": 4
+    },
+    {
+      "name": "Animesh",
+      "dob": "2000-01-08",
+      "gender": "Male",
+      "address": "Delhi",
+      "number": "723828282",
+      "id": 5
+    }
+  ]
+}
